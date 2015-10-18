@@ -32,6 +32,6 @@ public class Pliki {
         }
         
         
-        return odczyt.replace(",", " ");
+        return odczyt.replace(";", " ");
     }
 }
